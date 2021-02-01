@@ -1,4 +1,5 @@
 # Datathon_BCG_Gamma : Description
+# Ranked 3rd for a datathon organized by BCG Gamma at CentraleSupélec (december 2020)
 
 Français : 
 
