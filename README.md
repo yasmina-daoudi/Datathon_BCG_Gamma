@@ -9,19 +9,6 @@ Selon le CEO, connaître à l’avance l’état du trafic serait un premier él
 
 Notre client souhaite optimiser son processus de livraison et a défini une première variable d’importance à prédire: le trafic routier à Paris. On s’intéresse à deux variables permettant de qualifier le réseau routier: le débit horaire et le taux d’occupation de la voie
 
-3 arcs dans le périmètre du PoC:
-
-
-Les champs Elysées
-
-
-La rue de la Convention
-
-
-La rue des Saints Pères
-
--Vous réaliserez ces prédictions avec les dernières données disponibles en date et prédirez le trafic du 11 au 16 décembre 2020
--Performance évaluée à l’aide de la RMSE
 
 3 arcs dans le périmètre du PoC:
 
