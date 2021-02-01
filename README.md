@@ -1,7 +1,7 @@
 # Datathon_BCG_Gamma : Description
 ## Ranked 3rd for a datathon organized by BCG Gamma at CentraleSupélec (december 2020)
 
-Français : 
+#### Français : 
 
 LivraisonCo est une entreprise française privée de livraison opérant principalement en région parisienne. 
 Le CEO de LivraisonCo souhaite optimiser son processus de livraison (e.g. livrer plus de colis en un temps réduit, en limitant les coûts) d’une semaine sur l’autre. 
@@ -24,7 +24,7 @@ Vous réaliserez ces prédictions avec les dernières données disponibles en da
 Performance évaluée à l’aide de la RMSE
 
 
-English : 
+#### English : 
 
 LivraisonCo is a private French delivery company operating mainly in the Paris region. 
 The CEO of LivraisonCo wants to optimize his delivery process (e.g. deliver more parcels in a shorter time, while limiting costs) from one week to the next. 
